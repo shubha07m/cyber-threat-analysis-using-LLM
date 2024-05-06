@@ -1,0 +1,173 @@
+Sentence,Category
+Our subsequent  determined that initial access for the attack was through the  of the CVE-2023-42793 TeamCity  using a custom-built exploit script written in Python. The exploit script was used to execute the exploit code in the  of the CVE-2023-42793 TeamCity  exploit script. The exploit script was executed in the  of the CVE-2023-42793 TeamCity  exploit script. The exploit script was executed in the  of the CVE-,action
+The behavior of the malware used in post- matches the  malware used by APT29.,action
+The malware used in post- matches the malware used by APT29. The malware used in post- matches the malware used by APT29. The malware used in post- matches the malware used by APT29. The malware used in post- matches the malware used by APT29. The malware used in post- matches the malware used by APT29. The malware used in,threat
+The IR team found a Nuclei template (CVE-2023-42793.yaml) designed to identify the presence of the TeamCity  in Nuclei's official template repository[7]. The team then used this template to identify the TeamCity  in the Nuclei official template repository[7]. The team then used this template to identify the TeamCity  in the Nuclei official template repository[7]. The team then used this template to identify the TeamCity,action
+"Upon detection of this active, the FortiGuard IR team notified the  that their  may have been compromised and part of an ongoing APT29 campaign.",action
+The  was able to locate the  and the  was able to locate the  and the  was able to locate the  and the  was able to locate the  and the  was able to locate the  and the  was able to locate the  and the  was able to locate the  and the  was,action
+Analysis of the code in the poc.py file identified the script as a custom Python  of an exploit for the TeamCity  CVE-2023-42793.,action
+CVE-2023-42792 The Python interpreter in the poc.py file identified the script as a custom Python  of an exploit for the TeamCity  CVE-2023-42791.,action
+CVE-2023-42790 The Python interpreter in the poc.py file identified the script,action
+"This Yara rule was from the article, 'Backchannel Diplomacy: APT29's Rapidly Evolving Diplomatic Phishing Operations,' by Mandiant[9].",action
+"The Yara rule was from the article, 'Backchannel Diplomacy: APT29's Rapidly Evolving Diplomatic Phishing Operations,' by Mandiant[9]. The Yara rule was from the article, 'Backchannel Diplomacy: APT29's Rapidly Evolving Diplomatic Phishing Operations",action
+is a malware  employed by group APT29.,action
+The malware is a Trojan that can be used to infect computers and other devices. It can be used to infect other computers and other devices.,action
+The malware is a Trojan that can be used to infect computers and other devices. It can be used to infect other computers and other devices.,action
+The malware is a Trojan that can be used to infect computers and other devices. It can be used to infect other computers and other devices,action
+"While this tooling is confidently linked to APT29 (Mandiant) or BlueBravo (Recorded Future), the victimology and initial access vector employed by the main threat actor throughout earlier stages of thawing is not a new one. The first stage of thawing is when the water temperature drops below freezing. This is the time when the water temperature drops below freezing. The second stage of thawing is when the water temperature drops below freezing. This is the time when",action
+is intrusion does not align with currently reported APT29 campaigns.,threat
+The APT29 campaign is a new type of campaign that is designed to target the APT29 campaign. The APT29 campaign is designed to target the APT29 campaign by targeting the APT29 campaign's primary target. The APT29 campaign is designed to target the APT29 campaign's primary target by targeting the APT29 campaign's primary target.,action
+The APT29 campaign is designed to,action
+"However, a previous well-known attack from APT29 targeted the company Solarwinds, using the same build of the TeamCity management tool[10].",action
+"The attack was carried out by a group of hackers who used the same name as the APT29 group, and used the same code to execute the attack.",action
+"The attack was carried out by a group of hackers who used the same name as the APT29 group, and used the same code to execute the attack.",action
+"While the IR team could not attribute this activity to APT29 with high confidence, associated threat  was used to focus our  further. The IR team also used a different  approach to identify the  threat  that was most likely to be present in the  environment. The  threat  was identified by using  the  threat",action
+"At this time, the host  was patched for CVE-2023-42793.",action
+CVE-2023-42794 The kernel in the kernel-mode-map function in the kernel-mode-map function in the kernel-mode-map function in the kernel-mode-map function in the kernel-mode-map function in the kernel-mode-map function in the kernel-mode-map function in the kernel-mode-map function in the kernel-mode-map,action
+This article provided details of several intrusions where the TeamCity  CVE-2023-42793 was exploited to gain access to the victim network.,action
+CVE-2023-42793 is a vulnerability in the Microsoft Windows Server 2003 and Windows Server 2008 R2 SP1 and Windows Server 2008 R2 SP1.,action
+CVE-2023-42793 allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted web site.,action
+uture[24])/APT29 (tracked by Mandiant[25]) campaign.,action
+The campaign is now available for download on the following platforms:,action
+Fortinet has also released an IPS signature to proactively protect our customers from the threats contained in the report:,action
+"The URLs are rated  as being in the public domain, and are not subject to any security risk.",action
+The report also notes that the vulnerability is not present in the JetBrains.TeamCity.CVE-2023-42793.,action
+ck if the TeamCity server was vulnerable for CVE-2023-42793.,action
+CVE-2023-42794 The WebKit web server in Apple iOS before 10.3.3 and later before 10.3.3.1 and later before 10.3.3.2 and later before 10.3.3.3 and later before 10.3.3.4 and later before 10.3.3.5 and later before 10.3.3.6,action
+ploited the  CVE-2023-42793 of the public-facing TeamCity software host.,action
+CVE-2023-42794 of the public-facing TeamCity software host.,action
+CVE-2023-42795 of the public-facing TeamCity software host.,action
+CVE-2023-42796 of the public-facing TeamCity software host.,action
+CVE-2023-42797 of the public-facing TeamCity software host.,action
+"This is the first time we have seen this APT29 cluster target political parties, indicating a possible area of emerging operational focus beyond the typical targeting of diplomatic missions.Based on tesla-based data, we believe that the APT29 cluster is a potential target for the United States and its allies. The APT29 cluster is a highly sophisticated and sophisticated cluster that is capable of targeting political parties, political parties, and other political entities. The APT29 cluster is also capable of targeting",action
+"he SVR’s  to collect political  and this APT29 cluster’s historical targeting patterns, we judge this activity to present a broad threat to European and other Western political parties from across the political spectrum.",action
+The APT29 cluster is a cluster of cluster-based attacks that target political parties in the European Union (EU) and the United States (US). The APT29 cluster is a cluster of cluster-based attacks that target political parties in the European Union,action
+"In late February 2024, Mandiant identified APT29 — a Russian Federation backed threat group linked by multiple governments to Russia’s Foreign  Service (SVR) — conducting a phishing campaign targeting the APT29 group. The group was responsible for the attack on the APT29 group's website, which was later revealed to be a fake.",action
+"The APT29 group was also responsible for the attack on the APT29 group's website, which was later revealed to be",action
+"Consistent with APT29 operations extending back to 2021, this operation leveraged APT29’s mainstay first-stage payload ROOTSAW (aka EnvyScout) to deliver a new backdoor variant publicly tracked as WINNER-1.",action
+The payload ROOTSAW payload was designed to be used to deliver a payload that could be used to deliver a payload that could be used to deliver a payload that could be used to deliver a payload that could be used to,action
+"Notably, this activity represents a departure from this APT29 initial access cluster’s typical remit of targeting governments, foreign embassies, and other diplomatic missions, and is the first time MQ-1 has been used to target a foreign government.",action
+"The APT29 initial access cluster is designed to be a ""first-in-the-nation"" target for the United States, and is designed to be a ""first-in-the-nation"" target for the United",action
+andiant has seen an operational interest in political parties from this APT29 subcluster.,action
+The APT29 subcluster is a group of political parties that have been formed in the wake of the 2010 elections. The APT29 subcluster is a group of political parties that have been formed in the wake of the 2010 elections.,action
+The APT29 subcluster is a group of political parties that have been formed in the wake of the 2010 elections.,action
+", while APT29 has previously used lure documents bearing the logo of German government, this is the first instance where we have seen the group use German-language lure content — a possible artifact  of the German government's own propaganda.",action
+"The group's website states that it is ""a group of people who are interested in the development of the German language and culture.""",action
+"The group's website states that it is ""a group of people who are interested in the development of the German language",action
+"The backdoor contains several features and functions that overlap with several known APT29 malware families including BURNTBATTER, MUSKYBEAT and BEATDROP, indicating they are likely created by a commo-based malware family.",threat
+The backdoor is designed to allow the user to bypass the firewall and allow the user to access the Internet without the need for a password.,action
+The backdoor is designed to allow the user to bypass the firewall and allow the user to access the Internet without the,action
+n developer (see Technical Annex for additional details).Figure 1: Lure document redirecting victims to an APT29 controlled compromised WordPress website hosting  2: Second CDU lure displayed by ROOTS (see Technical Annex for additional details).Figure 2: Lure document redirecting victims to an APT29 controlled compromised WordPress website hosting  3: Third CDU lure displayed by ROOTS (see Technical Annex for additional details).Figure 3: Lure document redirecting victims to an APT29,threat
+AW  &  continues to be the central component of APT29’s initial access efforts to collect foreign political... information.,action
+"The APT29 is a multi-purpose, multi-purpose, multi-purpose, multi-purpose, multi-purpose, multi-purpose, multi-purpose, multi-purpose, multi-purpose, multi-purpose, multi-purpose, multi-purpose, multi-purpose, multi-purpose, multi-purpose, multi-purpose",action
+"The first-stage malware’s expanded use to target German political parties is a noted departure from the typical diplomatic focus of this APT29 subcluster, and almost certainly reflects the SVR’s internecine warfare that has plagued the German government since the end of the Cold War.",action
+The SVR’s are a group of hackers who have been active in the German political sphere since the early 1990s. The group has been active in the German media since the,action
+"As highlighted in our previous research detailing APT29’s operations in the first-half of 2023, these malware delivery operations are highly adaptive, and continue to evolve in lockstep with Russia’s  and China’s  regime.",action
+"The malware delivery operations are designed to deliver malware to the target's computer, and then use the malware to deliver the malware to the target's computer. The malware delivery operations are designed to deliver malware to the target",action
+We therefore suspect that APT29’s interest in  these  is unlikely to be limited to Germany.,action
+The  German government has been very clear that it is not interested in the  APT29’s  interest in the  APT29’s  interest in the  APT29’s  interest in the  APT29’s  interest in the  APT29’s  interest in the  APT29’,action
+"Based on recent activity from other APT29 subclusters, attempts to achieve initial access beyond phishing may include attempts to subvert cloud-based  mechanisms or brute force methods such as passworriers.",threat
+The following is a list of APT29 subclusters that have been successfully compromised.,action
+The following is a list of APT29 subclusters that have been successfully compromised.,action
+The following is a list of APT29 subclusters that have been,action
+"For more details regarding APT29’s recent tactics, please see the February 2024 advisory from the United Kingdom’s National Cyber Security Center (NCSC).Technical   as early as 26 February 2024, APT29 was deployed to the United Kingdom's National Cyber Security Center (NCSC) in the UK. The deployment was part of a series of operations to counter cyberattacks by the United Kingdom's National Cyber Security Center (NCSC). The deployment was part of a",action
+"This ROOTSAW variant uses the same JavaScript obfuscation resource used in previous APT29 operations, and ultimately results in a request to download and execute the second stage WINELOADER from the sdk-sdk-sdk-sdk-sdk-sdk-sdk-sdk-sdk-sdk-sdk-sdk-sdk-sdk-sdk-sdk-sdk-sdk-sdk-",action
+EAT code families which Mandiant uniquely associates with APT29.,action
+The APT29 family is a family of APT29-based APT29-based APT29-based APT29-based APT29-based APT29-based APT29-based APT29-based APT29-based APT29-based APT29-based APT29-based APT29-based APT29-based APT29-based,action
+", WINELOADER contains the following shared techniques with other code families used by APT29:The RC4 algorithm used to decrypt the next stage payload;Process/DLL name check to validate the payload conformance;Process/DLL name check to validate the payload conformance;Process/DLL name check to validate the payload conformance;Process/DLL name check to validate the payload conformance;Process/DLL name check to validate the payload conformance;Process/D",action
+All rights reserved.Bottom Website Privacy Policy Terms & Conditions Compliance Site Map Manage Cookies,action
+Backchannel Diplomacy: APT29’s Rapidly Evolving Diplomatic Phishing Operations | Mandiant   Skynet,information
+Backchannel Diplomacy: APT29’s Rapidly Evolving Diplomatic Phishing Operations | Mandiant   Skynet,information
+"APT29 has used various infection chains  across different operations, indicating that distinct initial access operators or subteams are possibly operating in parallel to service different regional tarps.",action
+The following table shows the number of operations performed by the different subteams.,action
+Operations performed by the different subteams,action
+Operations performed by the different subteams,action
+Operations performed by the different subteams,action
+Operations performed by the different subteams,action
+"gets or espionage objectives.Threat  the lead up to Ukraine's, Mandiant and Google’s Threat Analysis Group (TAG) have tracked an increase in the frequency and scope of APT29 phishing operations. The group has also tracked the number of APT29 attacks in the past month. The group has also tracked the number of APT29 attacks in the past month.",action
+The group has tracked an increase in the frequency and scope of APT29 phishing operations.,threat
+"Notably, as part of this activity, we have seen phishing emails targeting a wide range of diplomatic  in Kyiv including those of Moscow’s partners,  the first time we have observed this cluster of APT28 and APT29 emails.",action
+"The APT28 and APT29 emails were sent by the Russian government to the United States, the United Kingdom, and the United States of America. The APT28 and APT29 emails were sent by the Russian",action
+"Based on the timing and focus of APT29’s Ukraine-focused operations, we judge they are intended to aid Russia’s Foreign  Service (SVR) in  collection concerning the current pivotal phase of the war.",action
+The Russian military has been conducting a series of operations in Ukraine since the beginning of the year. The Russian military has been conducting a series of operations in Ukraine since the beginning of the year.,action
+The Russian military has been conducting a series of operations,action
+APT29’s increased phishing activity in Ukraine has occurred alongside an uptick in the group’s more routine espionage operations against global diplomatic entities.,threat
+"The latest phishing activity was reported by the Russian Federation's Federal Security Service (FSB) on Tuesday, which included a phishing email from the Russian Federation's Federal Security Service (FSB) that included a link to a Russian government website.",action
+The phishing email was sent to the Russian Federation's Federal Security Service,threat
+"Across these malware delivery operations, APT29 continues to prioritise European Ministries of Foreign Affairs and embassies, but it has also sustained operations that are global in scope and  of Russophobic nature.",action
+The APT29 malware delivery operation is a direct result of the Russian government's efforts to influence the 2016 US presidential election. The APT29 malware delivery operation is a direct result of the Russian government's efforts to influence the 2016 US presidential election.,action
+The APT29 malware delivery,information
+"We judge that Russia’s war in Ukraine has almost certainly shaped APT29’s espionage priorities, but it has not supplanted them.",action
+"The Russian military has been conducting a series of operations in Ukraine since the beginning of the year, including the annexation of Crimea and the annexation of the Donbass region.",action
+"The Russian military has also conducted a series of operations in Ukraine since the beginning of the year, including the annexation of Crimea and the annexation of the Donbass region",action
+We track this diplomatic-focused phishing activity as  distinct from APT29’s ongoing initial access operations targeting cloud-based Microsoft products.,action
+"The phishing activity is not limited to Microsoft products. It can also be used to target other Microsoft products, such as Office 365, Office 365 Pro, Office 365 Pro SP1, Office 365 Pro SP2, Office 365 Pro SP3, Office 365 Pro SP4, Office 365 Pro SP5, Office 365 Pro SP6, Office",action
+"Although APT29’s cloud-focused  may lead to the compromise of diplomatic entities, variance in the scale, quality and targeting patterns of the two lines of effort indicate that they are highly likely to be compromised.",action
+The APT29’s cloud-focused vernacular is a combination of the vernacular of the APT29’s cloud-focused vernacular and the vernacular of the APT29’s cloud-focused vern,action
+"victim environment.Figure 1: APT29’s distinct initial access  the increased pace of operations and changes in targeting, we have also seen a major shift in the group’s tooling and tradecraft. The APT29 is a tool that is used to identify and target targets in a group. The APT29 is a tool that is used to identify and target targets in a group. The APT29 is a tool that is used to identify and target targets in",action
+"APT29 has rebuilt several of its tools and has made repeated iterative  to its existing malware delivery chain, likely to ensure its operational longevity despite long-term persistent use.",threat
+The malware is a combination of a virus and a malware-based malware. The malware is a combination of a virus and a malware-based malware.,action
+The malware is a combination of a virus and a malware-based malware.,action
+The malware is a combination of a virus and a malware-based,action
+"security priorities continue to factor heavily into APT29’s tooling decisions.APT29’s Evolving Approach to Malware  in 2021, APT29 adopted a tactic called HTML smuggling in its malware delivery opera­tion. The tactic is designed to target the target's computer, and then inject malware into the target's computer. The malware is then injected into the target's computer, and then inject malware into the target's computer. The malware is then injected into the target",threat
+"As detailed in previous research by Mandiant, CERT-Polska, Palo Alto Networks and others, ROOTSAW has been a constant feature of APT29's operations over the past two years and has been the primary vehicular traffic control system for the company's operations.",action
+"""We are pleased to announce that ROOTSAW has been the primary vehicle traffic control system for the company's operations over the past two years,"" said CERT-Polska. ""We",action
+ROOTSAW’s central and continued role in APT29 operations has spurred changes to the malware delivery chain over time.,action
+The malware is a combination of a maliciously crafted and maliciously executed executable that is designed to infect the computer's hard drive and then infect the victim's system.,threat
+The malware is designed to infect the victim's system with a maliciously crafted executable that is designed to infect the computer's hard drive and then infect the victim's system.,action
+"The most visible change has been the move away from HTML attachments as the initial infection vector, with APT29 shifting to hosting its first-stage payloads on compromised web services such as WordPrinter and Wordpress.",action
+"The new vulnerability is not the first to be exploited by attackers. In May, a group of hackers used a vulnerability in Adobe Flash Player to inject malicious code into a web browser.",action
+"The vulnerability was discovered by a researcher at the University of California, Berkeley, who",action
+Migrating the first-stage payload server side has likely provided APT29 a greater degree of control over its malware delivery chain and allowed the group to be more judicious about the exposure of its malware.,action
+"The group's malware payloads are designed to be used by attackers to infect other computers, including those of the government, military, and other organizations.",action
+"The group's malware payloads are designed to be used by attackers to infect other computers, including those of the government,",threat
+"For example, to prevent detection of malware in  not intended for compromise, APT29 has implemented various forms of filtering in its first-stage payloads and has removed staged malware from compromisings.",threat
+The APT29 payloads are designed to be used to detect and remove malware from a compromised system. The payloads are designed to be used to detect and remove malware from a compromised system.,threat
+The APT29 payloads are designed to be used to detect and remove malware,threat
+"wer malware variants.Figure 2: APT29’s diverse first-stage delivery methodsAs shown  the following campaigns tracked throughout the first half of 2023 detail, APT29 has made continuous, iterative effo-logistic improvements to its malware delivery methods. The malware is now able to deliver malware to a wide range of targets, including:",action
+"· A wide range of mobile devices, including tablets, smartphones, and tablets running Windows Phone 8.1.",action
+· A wide,action
+"March 2023: Earthquake-Themed Türkiye CampaignIn March 2023, Mandiant identified a new APT29 phishing campaign targeting Türkiye. The campaign was launched on March 2023, and was launched on March 2023, and was launched on March 2023, and was launched on March 2023, and was launched on March 2023, and was launched on March 2023, and was launched on March 2023, and was launched on March 2023,",action
+the first time Mandiant has seen APT29 introduce an additional layer of obfuscation to its phishing links using a URL shortening service.,threat
+"The new obfuscation is called ""P2P"" and it's a way to obfuscate the URL shortening service.",action
+"The new obfuscation is called ""P2P"" and it's a way to obfuscate the URL shortening service. The new obfuscation is called ""P2P"" and it's a way to",action
+"deployMarch 2023: European Diplomatic-Focused Phishing CampaignsIn an additional phishing campaign in March 2023, APT29 targeted various diplomatic missions in Europe. The phishing campaign was conducted using a variety of methods, including phishing emails, phishing websites, and phishing email addresses. The phishing campaign was conducted using a variety of methods, including phishing emails, phishing websites, and phishing email addresses. The phishing campaign was conducted using a variety",threat
+"In the second wave, APT29 delivered an additional new variant of ROOTSAW (MD5: ), containing both user-agent and IP filtering, but ultimately leading to the same MUSKYBEAT downloader.",action
+"The first wave of APT29 was released in September of 2014, and was released in October of that year. The second wave was released in November of that year, and was released in December of that year.",action
+The first wave of APT29 was,action
+"]org/?format=json”.Figure 4: ROOTSAW payload decryption routine April 2023: Old Wine in a New BottleIn April 2023, APT29 continued to modify its standard malware delivery chain, introducing a new tech called ""ROTSAW"". This new technology was designed to be able to decrypt the payloads of a malicious program, and to decrypt the payloads of a malicious program, without the need for any special software. The payload decryption",action
+"In this operation, APT29 re-used one its frequent diplomatic event-themed lure documents spoofing the Czechia Embassy (more commonly known as the Czech Republic) that invited targets to a wine tasting.",threat
+"The Czech Republic's ambassador to the United States, Peter Szijjarto, was also present at the event.",action
+"The Czech Republic's ambassador to the United States, Peter Szijjarto, was also present at the event.",action
+"ysis.May 2023: Ukraine Foreign Embassy-Focused CampaignsIn May, in the lead up to Ukraine’s, APT29 conducted two distinct phishing waves targeting a wide range of diplomatic  in Kyiv, including those of the Ukrainian government and the Ukrainian parliament. The first wave targeted the Ukrainian government's website, and the second targeted the Ukrainian parliament's website. The first wave targeted the Ukrainian parliament's website, and the second targeted the Ukrainian parliament's website. The first",action
+additional APT29 phishing campaign with a new variant of ROOTSAW to target a European government.,action
+"The new variant of ROOTSAW is a new variant of the ROOTSAW-1, which is a new variant of the ROOTSAW-2, which is a new variant of the ROOTSAW-3, which is a new variant of the ROOTSAW-4, which is a new variant of the ROOTSAW-5",action
+"rather than the typical HTML payload.Notably, although APT29 used a compromised WordPress server to host the ROOTSAW payload, non-valid targets received a generic HTTP 404 error rather than the tradi-cred-error-type-of-response-type-of-response-type-of-response-type-of-response-type-of-response-type-of-response-type-of-response-type-of-response-type-of",threat
+"Mandiant has identified that once APT29 removes the server side, the compromised WordPress site will start displaying the correct WordPress 404 error indicating that the file was not found.",threat
+The following is a list of the known issues that have been reported to APT29.,action
+The following is a list of known issues that have been reported to APT29.,action
+The following is a list of known issues that have been reported to APT29.,action
+The following is a list of,action
+"We therefore suspect that  compromised by APT29 to deliver malware will likely not find logs for this activity within WordPress, although they may exist within other services such as the underlying weblog.",threat
+The following is a list of known compromised WordPress services.,threat
+Weblog is a WordPress plugin that allows users to create and edit posts. It is a free plugin that allows users to create and edit posts. It is a free plugin that allows users to create and edit posts.,action
+"Consistent with other cases where APT29 has introduced new delivery methods for ROOTSAW, the group reverted to a primitive ROOTSAW payload without anti-analysis techniques or other forms of hardening.",action
+"The group also removed the use of the ""predictive"" payload, which was used to predict the outcome of a given event.",action
+"The group also removed the use of the ""predictive"" payload, which was used to predict the outcome of a given event",action
+"Figure 6: Traditional 404 error from compromised APT29  7: 404 error from IP filtered by APT29July 2023: ICEBEAT CampaignIn July, APT29 continued to experiment with new ROOTSAW delivery mechanisms and new IP filters. The APT29 campaign was successful in the following areas: 1) IP filtering of APT29 addresses, 2) IP filtering of APT29 addresses, 3) IP filtering of APT29 addresses, 4) IP filtering of",threat
+"Of note, ICEBEAT’s use of the open source Zulip messaging platform for command and control (C2) follows a pattern of past APT29 downloaders using legitimate services for command and control including iphone, iphone2, iphone3, iphone4, iphone5, iphone6, iphone7, iphone8, iphone9, iphone10, iphone11,",action
+"Figure 8: Decoy lure used by APT29 for filtered  9: PDF decoy document used during successful malware  Choices Possibly Reflect Distinct APT29 Subteams Beyond the continued adaptation of APT29’s malwaison to the APT29 subteams, the APT29 subteams are also likely to be more vulnerable to APT29's malware. The APT29 subteams are likely to be more vulnerable to APT29's",action
+"DAVESHELL is based in the public available repository.Figure 10: APT29’s Second-Stage Downloaders Used in 2023As noted in the June 2023 campaign, we have also witnessed APT29 operating various infecti- tion methods. The first is the APT29-1. The second is the APT29-2. The third is the APT29-3. The fourth is the APT29-4. The fifth is the AP",action
+"surrounding its war in Ukraine.Upon first use of new tactics or tools in higher risk, we have observed APT29 incorporate these new tools into its broader operations with minimal changes, pointing to the fact that the APT29 is a very effective and effective weapon against the Ukrainian military. The APT29 is also a very effective and effective weapon against the Russian military. The APT29 is also a very effective and effective weapon against the Russian military. The APT29 is also a very effective",action
+Patterns of controlled first-use possibly extend back to the emergence of APT29’s diplomatic-focused phishing cluster in 2021.,threat
+"The APT29’s phishing cluster was first identified in the early 2000s by researchers at the University of California, Berkeley. The researchers identified a number of phishing attacks that targeted the APT29’s network, including one that targeted the APT29’s network, and one that targeted the APT29",action
+"In May 2021, during Russia’s initial troop-build up around Ukraine, Mandiant identified an APT29 operation using ICEBREAKER, a modified variant of BOOMMIC (also known as VaporRage) embedded in softwar. The APT29 was deployed to Ukraine in May 2017.",action
+The APT29 was deployed to Ukraine in May 2017. The APT29 was deployed to Ukraine in May 2017. The APT29 was deployed to Ukraine in May 2017,action
+increased scope and frequency of APT29's diplomatic-focused spear phishing campaigns in the first half of 2023 has compelled the initial access team to make repeated  to its long-standing malware deli.,threat
+The APT29 malware is a variant of the APT-29 malware that was first introduced in the early 2000s. It is a variant of the APT-29 malware that was first introduced in the early 2000s. It is a variant of the APT-,action
+APT29's increased operational tempo has also exposed patterns of operations that likely reflect different initial access operators or subteams supported by a centralized development team.,action
+"The new system is designed to be more efficient and more flexible than existing systems, and it will allow for more flexibility in the development of new systems.",action
+The new system will be available for download from the following websites:,action
+"Find out more about Mandiant Security Validation.VIDNameS100- Activity Scenario - APT29 Continues to Leverage Meeting Agenda Themes, ROOTSAW, SALTSHAKER to Target European Diplomatic - Activity Scenarities, ROOTSAW, SALTSHAKER to Target European Diplomatic - Activity Scenarities, ROOTSAW, SALTSHAKER to Target European Diplomatic - Activity Scenarities, ROOTSAW,",action
+"io - APT29 Uses BEATDROP and BOOMMIC to Deploy BEACONS100- Activity Scenario - APT29 Targets with ROOTSAW, FANCYBEAT Downloaders, Variant #1A106-551Phishing Email - Malicious Link, APT29, MUSKYBEAT, VIA BEACON100- Activity Scenario - APT29 Targets with ROOTSAW, FANCYBEAT Downloaders, Variant #",action
+"ariant #1A106-542Command and Control - APT29, MUSKYBEAT, DNS QueryA106- File Transfer - APT29, MUSKYBEAT Dropper, Download, Variant #1A106- File Transfer - APT29, MUSKYBEAT, Download, Variant #1Indicat - APT29, MUSKYBEAT, Download, Variant #1A106- File Transfer - APT29, MUSKYBEAT, Download",action
