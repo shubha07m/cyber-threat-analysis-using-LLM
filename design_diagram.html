@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inter-related Block Diagrams</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f3f3f3;
+            margin: 0;
+            padding: 0;
+        }
+
+        .diagram-container {
+            display: flex;
+            justify-content: top;
+            align-items: top;
+            width: 100vw;
+            height: 100vh;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .diagram {
+            max-width: 80%; /* Adjusted width */
+            max-height: 80%; /* Adjusted height */
+            object-fit: contain;
+            cursor: pointer;
+            display: none; /* Hide all diagrams by default */
+        }
+
+        .diagram.active {
+            display: block; /* Display only active diagram */
+        }
+
+        .heading-container {
+            position: absolute;
+            bottom: 5%;
+            display: flex;
+            justify-content: space-between;
+            width: 80%;
+            max-width: 800px;
+            padding: 10px;
+            background-color: rgba(255, 255, 255, 0.9);
+            border-radius: 10px;
+        }
+
+        .heading {
+            padding: 10px 20px;
+            border-radius: 5px;
+            background-color: #4CAF50;
+            color: white;
+            font-size: 18px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .heading:hover {
+            background-color: #45a049;
+        }
+
+        .buttons {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            justify-content: flex-start;
+            padding: 20px;
+        }
+
+        .button {
+            margin-bottom: 10px;
+            padding: 10px 20px;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .button:hover {
+            background-color: #0056b3;
+        }
+
+        /* New style for EDA block */
+        .eda-block {
+            position: absolute;
+            bottom: 10px;
+            right: 10px;
+            width: 150px;
+            height: 50px;
+            background-color: #B3E5FC;
+            border-radius: 5px;
+            display: flex;
+            justify-content: top;
+            align-items: top;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .eda-block:hover {
+            background-color: #90CAF9;
+        }
+    </style>
+</head>
+<body>
+    <div class="diagram-container">
+        <!-- Diagram blocks -->
+        <a href="https://github.com/shubha07m/apt-analysis-experiments/blob/main/data_cleaning.ipynb" target="_blank">
+            <img src="html_images/cleaning.png" alt="Cleaning" id="cleaning" class="diagram">
+        </a>
+        <a href="https://github.com/shubha07m/apt-analysis-experiments/blob/main/apt_analysis.ipynb" target="_blank">
+            <img src="html_images/sentence_refining.png" alt="Sentence Refining" id="sentence_refining" class="diagram">
+        </a>
+        <a href="https://github.com/shubha07m/apt-analysis-experiments/blob/main/apt_analysis.ipynb" target="_blank">
+            <img src="html_images/sentence_generation.png" alt="Sentence Generation" id="sentence_generation" class="diagram">
+        </a>
+        <a href="https://github.com/shubha07m/apt-analysis-experiments/blob/main/mitre_analysis.ipynb" target="_blank">
+            <img src="html_images/mitredata_thresholded.png" alt="Mitredata Thresholded" id="mitredata_thresholded" class="diagram">
+        </a>
+        <a href="https://github.com/shubha07m/apt-analysis-experiments/blob/main/mitre_analysis.ipynb" target="_blank">
+            <img src="html_images/final.png" alt="Final" id="final" class="diagram">
+        </a>
+        </a>
+        <a href="https://github.com/shubha07m/apt-analysis-experiments/blob/main/EDA_summary.pdf" target="_blank">
+            <img src="html_images/distro.png" alt="distro" id="distro" class="diagram" style="width: 70%; height: auto;">
+        </a>
+
+        <!-- EDA Block -->
+        <div class="eda-block" onclick="showDiagram('eda')">
+            EDA: Entities, Sentiments, Topics
+        </div>
+
+        <!-- Heading container -->
+        <div class="heading-container">
+            <h2 class="heading" onclick="showDiagram('cleaning')">Initial data cleaning</h2>
+            <h2 class="heading" onclick="showDiagram('sentence_refining')">Smaller chunk size sentence creation and filtering</h2>
+            <h2 class="heading" onclick="showDiagram('sentence_generation')">Meaningful sentence creation using GPT-2</h2>
+            <h2 class="heading" onclick="showDiagram('mitredata_thresholded')">MITRE attack matrix data scrapping, sentiment analysis based classification</h2>
+            <h2 class="heading" onclick="showDiagram('final')">Embedding creation from MITRE data and ATP data, cosine similarity comparison and final summarization</h2>
+            <h2 class="heading" onclick="showDiagram('distro')">Distribution of information</h2>
+        </div>
+
+        <!-- Buttons -->
+        <div class="buttons">
+            <button class="button" onclick="openUrl('https://github.com/shubha07m/apt-analysis-experiments/blob/main/url_dict.csv')">List of URLs</button>
+            <button class="button" onclick="openUrl('https://github.com/shubha07m/apt-analysis-experiments/blob/main/cleaned_apt_data.txt')">Cleaned APT data</button>
+            <button class="button" onclick="openUrl('https://github.com/shubha07m/apt-analysis-experiments/blob/main/regenerated_sentences.txt')">GPT2 generated sentences</button>
+            <button class="button" onclick="openUrl('https://github.com/shubha07m/apt-analysis-experiments/blob/main/classified_sentences.csv')">Classified Sentences</button>
+        </div>
+
+        <!-- EDA Diagram -->
+        <img src="html_images/eda.png" alt="EDA" id="eda" class="diagram" style="width: 70%; height: auto;" onclick="openUrl('https://github.com/shubha07m/apt-analysis-experiments/blob/main/helper_functions.py')">
+    </div>
+
+    <!-- JavaScript -->
+    <script>
+        function showDiagram(diagramId) {
+            // Hide all diagrams
+            var diagrams = document.querySelectorAll('.diagram');
+            diagrams.forEach(function(diagram) {
+                diagram.classList.remove('active');
+            });
+
+            // Show selected diagram
+            document.getElementById(diagramId).classList.add('active');
+        }
+
+        function openUrl(url) {
+            window.open(url, '_blank');
+        }
+    </script>
+</body>
+</html>
