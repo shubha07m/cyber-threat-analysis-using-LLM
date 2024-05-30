@@ -4,16 +4,18 @@
 
 In this project, we have used various NLP techniques including entity analysis.
 
-For a better viewing experience, please follow these steps:
+For a better viewing experience, please follow this [interactive link](https://shubha07m.github.io/cyber-threat-analysis-using-LLM/)
+On the interactive HTML page:
+- Click on the green buttons at the bottom to view the design diagrams for each phase and sub-phase of the project.
+- Clicking on these diagrams will direct you to the corresponding implementation code on GitHub.
+- Click on the blue buttons on the right side of the page to access the GitHub link for the relevant data in each phase.
+
+If you clone or download the repository please follow these steps:
 
 1. **Download all zip files and the HTML page to your computer.**
 2. **Unzip the "html_images.zip" file**, and optionally, unzip the "codes_and_data.zip" file as well.
 3. **Run the HTML file to access the interactive page.**
 
-On the HTML page:
-- Click on the green buttons at the bottom to view the design diagrams for each phase and sub-phase of the project.
-- Clicking on these diagrams will direct you to the corresponding implementation code on GitHub.
-- Click on the blue buttons on the right side of the page to access the GitHub link for the relevant data in each phase.
 
 The overall project can be divided into five phases:
 
