@@ -2,7 +2,8 @@
 
 [![threat analysis](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/html_images/distro.png)](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/helper_functions.py)
 
-In this project, we have used various NLP techniques including entity analysis.
+In this project, we have used various NLP techniques including data cleaning and preprocessing,entity analysis, word and sentence tokenization, bag of words, lda modeling, embedding creation, similarity analysis, sentiment analysis and meaningful sentence sysnthesis using GPT2 to build a basic LLM based cyber threat handling framework.
+
 
 For a better viewing experience, please follow this [interactive link](https://shubha07m.github.io/cyber-threat-analysis-using-LLM/)
 On the interactive HTML page:
