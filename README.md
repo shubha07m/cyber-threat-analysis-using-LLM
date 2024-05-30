@@ -39,7 +39,7 @@ In this phase using the cleaned data from phase (A), sentence tokens were create
 
 In this phase the refined sentences from phase (B) were used to create a collection of meaningful sentences, that can be used for pattern analysis and threat hunting. For this, gpt2 based tokenizer and gpt2 LMH model were used. Also attention masks and token ids were used in this processing. Finally these meaningful sentences are saved in another text file to use.
 
-[![Phase C Diagram](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/html_images/sentence_generation.png))](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/apt_analysis.ipynb)
+[![Phase C Diagram](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/html_images/sentence_generation.png)](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/apt_analysis.ipynb)
 
 ## D. MITRE ATT&CK framework analysis:
 In this phase MITRE framework website was accessed and cleaned similar to the procedure mentioned in (A). Then, sentences are refined using the same process mentioned I (B). Then these sentences are processed to extract polarity sentiment scores. Finally, based on thresholding these scores, we divided these MITRE sentences in threat, action and info.
