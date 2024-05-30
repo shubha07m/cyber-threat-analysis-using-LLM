@@ -37,21 +37,23 @@ In this phase using the cleaned data from phase (A), sentence tokens were create
 
 In this phase the refined sentences from phase (B) were used to create a collection of meaningful sentences, that can be used for pattern analysis and threat hunting. For this, gpt2 based tokenizer and gpt2 LMH model were used. Also attention masks and token ids were used in this processing. Finally these meaningful sentences are saved in another text file to use.
 
-[![Phase C Diagram](demo_link)](code_link)
+[![Phase C Diagram](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/html_images/sentence_generation.png))](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/apt_analysis.ipynb)
 
 ## D. MITRE ATT&CK framework analysis:
 In this phase MITRE framework website was accessed and cleaned similar to the procedure mentioned in (A). Then, sentences are refined using the same process mentioned I (B). Then these sentences are processed to extract polarity sentiment scores. Finally, based on thresholding these scores, we divided these MITRE sentences in threat, action and info.
 
-[![Phase D Diagram](demo_link)](code_link)
+[![Phase D Diagram](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/html_images/mitredata_thresholded.png)]([code_link](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/mitre_analysis.ipynb))
 
 ## E. Embedding creation, matching and APT29 attack solution database creation
 
 In this phase, we used GloVe twitter 100 pre-trained model to create embeddings of MITRE sentences and as well as meaningful sentences about APT29. One crucial step is, MITRE sentences were further transformed into documents to reduce processing time. Finally, cosine similarity was applied to compare these embeddings with each other (the document embeddings from MITRE and sentence embedded from apt29). Based on these matching, APT29 sentences are finally added to three final categories: 
+
 1. Threat advisory 
 2. Hunting action 
 3. General information.
 
-[![Phase E Diagram](demo_link)](code_link)
+[![Phase E Diagram](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/html_images/final.png)](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/mitre_analysis.ipynb)
+
 
 ## Next step:
 
