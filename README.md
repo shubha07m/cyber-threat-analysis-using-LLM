@@ -31,7 +31,7 @@ Here the URLs (saved in a csv file) was processed to extract raw text data using
 
 In this phase using the cleaned data from phase (A), sentence tokens were created. They were further broken into smaller chunk sizes, cleaned for spaces and too small size chunks etc. These smaller sentence-like chunks are further refined based on the relevant keywords for atp29. Finally refined sentences are saved in a text file.
 
-[![Phase B Diagram](demo_link)](code_link)
+[![Phase B Diagram](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/html_images/sentence_refining.png)](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/apt_analysis.ipynb)
 
 ## C. Meaningful sentence creation using GPT2:
 
