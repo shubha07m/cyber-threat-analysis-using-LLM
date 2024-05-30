@@ -19,13 +19,13 @@ The overall project can be divided into five phases:
 
 In this phase, we conducted exploratory data analysis to understand the structure and patterns in the data.
 
-[![EDA Diagram](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/eda.png)](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/preprocess.py)
+[![EDA Diagram](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/html_images/eda.png)](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/preprocess.py)
 
 ## A. Initial data cleaning:
 
 Here the URLs (saved in a csv file) was processed to extract raw text data using Requests and Beautiful Soup. Then, they were minimally cleaned mainly removing longer words, MD5 codes, etc. No other processing were done at this stage to preserve the context of the data.
 
-[![Phase A Diagram](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/cleaning.png)](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/data_cleaning.ipynb)
+[![Phase A Diagram](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/html_images/cleaning.png)](https://github.com/shubha07m/cyber-threat-analysis-using-LLM/blob/main/data_cleaning.ipynb)
 
 ## B. Smaller sentence creation
 
